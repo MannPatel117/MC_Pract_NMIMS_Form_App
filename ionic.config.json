@@ -1,0 +1,7 @@
+{
+  "name": "NMIMS-Form",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
